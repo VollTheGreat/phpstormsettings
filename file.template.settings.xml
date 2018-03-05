@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="RepositoryFile.php" reformat="false" live-template-enabled="true" />
+      <template name="ServiceFile.php" reformat="false" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>
