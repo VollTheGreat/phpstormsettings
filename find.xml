@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../components/app/src/app/Services/FetchPrices/G2AService.php [wock-wholesale]'" />
-    <option name="defaultScopeName" value="File '.../components/app/src/app/Services/FetchPrices/G2AService.php [wock-wholesale]'" />
-    <option name="SEARCH_SCOPE" value="File '.../components/app/src/app/Services/FetchPrices/G2AService.php [wock-wholesale]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
